@@ -1,7 +1,2 @@
-# My site
-hi iam bebo
-i like to build things and this is my frist project
-
-## Preview
-
-![Website Preview](https://cdn.hackclub.com/019dd48c-1665-75ed-9038-c0d27361c7bb/screenshot.png)
+# fitniss frist gym
+FitnessFirst Gym website is a modern, interactive platform designed to showcase gym programs, membership plans, and registration.Users get instant feedback when clicking Register Now or choosing a plan, with notifications confirming their actions. Smooth scrolling, animated counters, and interactive buttons make the site engaging and user-friendly
